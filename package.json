@@ -1,0 +1,19 @@
+{
+  "name": "buzzmap",
+  "version": "2.0.3",
+  "description": "Buzzmap is a jQuery plugin, that enables you to visualize structured data online, directly in your browser. But, while most mindmap tools look static and boring, buzzmap renders your mindmap dynamically and animates it, so you can drag the nodes around and display their child nodes on the fly.",
+  "main": "buzzmap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yieloo/buzzmap.git"
+  },
+  "author": "Marcel Klehr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yieloo/buzzmap/issues"
+  },
+  "homepage": "https://github.com/Yieloo/buzzmap#readme"
+}
